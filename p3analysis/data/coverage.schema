@@ -24,13 +24,13 @@
         "items": {
             "type": "integer"
         }
-      },
+      }
     },
     "required": [
       "file",
       "id",
       "used_lines",
-      "unused_lines",
+      "unused_lines"
     ]
   }
 }
